@@ -1,6 +1,6 @@
 # Mobile Sensors Workshop
 
-The workshop will cover the basics of the most popular types of sensors used in mobile applications. You will learn about different type of sensors that are often useful in mobile applications, from simple light and temperature sensors to more complex sensors like accelerometers and gyroscopes. The Arduino platform will provide a handy tool for recording the sensor output and presenting Then each student will have the opportunity to build a sensor-enabled device with the Arduino platform. 
+The workshop will cover the basics of the most popular types of sensors used in mobile applications. You will learn about different type of sensors that are often useful in mobile applications, from simple light and temperature sensors to more complex sensors like accelerometers and gyroscopes. The Arduino platform will provide a handy tool for recording the sensor output and presenting it to you. Finally, each student will have the opportunity to build a sensor-enabled device with the Arduino platform. 
 
 ## Curriculum
 
