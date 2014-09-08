@@ -1,6 +1,6 @@
 # Mobile Sensors Workshop
 
-The workshop will cover the basics of the most popular types of sensors used in mobile applications. You will learn about different type of sensors that are often useful in mobile applications, from simple light and temperature sensors to more complex sensors like accelerometers and gyroscopes. The Arduino platform will provide a handy tool for recording the sensor output and presenting it to you. Finally, each student will have the opportunity to build a sensor-enabled device with the Arduino platform. 
+The workshop will cover the basics of the most popular types of sensors used in mobile and wearable applications: force, position, light, temperature, tilt, compasses, and more. These types of sensors can enable you to build things from an automatic night light to a robot capable of navigating through a room on its own. The Arduino platform will provide a handy tool for recording, analyzing, presenting, and acting on the sensor output. Finally, each student will have the opportunity to build a sensor-enabled device with the Arduino platform. 
 
 ## Curriculum
 
@@ -10,8 +10,8 @@ We'll be covering the following topics:
 * Sensor introduction
 * Sensing effects
 * Sensor circuits
-* Force and position
-* Light and temperature
+* Force and position sensors
+* Light and temperature sensors
 * Sampling & Digital Conversion
 
 ### Second Day -- digital
@@ -23,6 +23,7 @@ We'll be covering the following topics:
 
 ### Things to know ahead of time
 
-You don't strictly need to know any of these things, but they will help
+You don't need to know any of these things, but they will help you in this workshop.
+
 * Basic electronics -- resistors, capacitors, op amps, diodes, and the like
 * Basic Arduino programming
